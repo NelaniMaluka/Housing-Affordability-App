@@ -1,0 +1,8 @@
+C:\Users\maluk\Documents\Second Year\PRG-521\Activities\Housing Affordability App\Housing Affordability App\obj\Debug\Housing Affordability App.csproj.AssemblyReference.cache
+C:\Users\maluk\Documents\Second Year\PRG-521\Activities\Housing Affordability App\Housing Affordability App\obj\Debug\Housing Affordability App.csproj.SuggestedBindingRedirects.cache
+C:\Users\maluk\Documents\Second Year\PRG-521\Activities\Housing Affordability App\Housing Affordability App\obj\Debug\Housing Affordability App.csproj.CoreCompileInputs.cache
+C:\Users\maluk\Documents\Second Year\PRG-521\Activities\Housing Affordability App\Housing Affordability App\bin\Debug\Housing Affordability App.exe.config
+C:\Users\maluk\Documents\Second Year\PRG-521\Activities\Housing Affordability App\Housing Affordability App\bin\Debug\Housing Affordability App.exe
+C:\Users\maluk\Documents\Second Year\PRG-521\Activities\Housing Affordability App\Housing Affordability App\bin\Debug\Housing Affordability App.pdb
+C:\Users\maluk\Documents\Second Year\PRG-521\Activities\Housing Affordability App\Housing Affordability App\obj\Debug\Housing Affordability App.exe
+C:\Users\maluk\Documents\Second Year\PRG-521\Activities\Housing Affordability App\Housing Affordability App\obj\Debug\Housing Affordability App.pdb
